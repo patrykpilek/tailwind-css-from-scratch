@@ -7,7 +7,7 @@ Loopstudios landing page from my Tailwind course and from [Frontend Mentor Chall
 Install dependencies
 
 ```
-npm Install
+npm install
 ```
 
 Run Tailwind CLI
