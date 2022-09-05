@@ -2,7 +2,7 @@
 
 ### Projects:
 
-- [ ] Clipboard
+- [x] Clipboard
 - [ ] Loopstudios
 - [ ] Shortly
 - [ ] Testimonial Grid
