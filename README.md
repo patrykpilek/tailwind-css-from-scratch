@@ -3,8 +3,8 @@
 ### Projects:
 
 - [x] Clipboard
-- [ ] Loopstudios
-- [ ] Shortly
-- [ ] Testimonial Grid
+- [x] Loopstudios
+- [x] Shortly
+- [x] Testimonial Grid
 - [ ] Fylo Website With Color
 - [ ] Bookmark Manager Website
