@@ -6,5 +6,5 @@
 - [x] Loopstudios
 - [x] Shortly
 - [x] Testimonial Grid
-- [ ] Fylo Website With Color
+- [x] Fylo Website With Color
 - [ ] Bookmark Manager Website
