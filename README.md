@@ -7,4 +7,4 @@
 - [x] Shortly
 - [x] Testimonial Grid
 - [x] Fylo Website With Color
-- [ ] Bookmark Manager Website
+- [x] Bookmark Manager Website
